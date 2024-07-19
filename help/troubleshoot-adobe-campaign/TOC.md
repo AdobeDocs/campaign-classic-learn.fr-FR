@@ -22,7 +22,7 @@ ht-degree: 100%
    + [Correction des erreurs de connexion à la console](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [Correction de l&#39;identifiant zéro](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)
 + Workflows {#workflows}
-   + [Empêcher un compte utilisateur désactivé d&#39;arrêter un workflow en cours d&#39;exécution](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
+   + [Empêcher un compte d’utilisateur désactivé d’arrêter un workflow en cours d’exécution](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
    + [Augmentation du nombre de workflows parallèles en cours d&#39;exécution](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
    + [Filtrage des workflows en fonction de la condition &quot;Conserver le résultat&quot;](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
    + [Requête sur les noms de sortie de diffusion](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)

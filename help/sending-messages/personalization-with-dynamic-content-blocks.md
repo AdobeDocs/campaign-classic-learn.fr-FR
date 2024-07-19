@@ -1,6 +1,6 @@
 ---
 title: Personnalisation des emails à l’aide de blocs de contenu dynamique
-description: Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser du code JavaScript dans les modèles de diffusion et normaliser et partager des blocs de contenu dans différents modèles de diffusion.
+description: Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser le code JavaScript dans les modèles de diffusion et normaliser et partager les blocs de contenu dans différents modèles de diffusion.
 feature: Personalization
 jira: KT-1559
 doc-type: feature video
@@ -8,8 +8,8 @@ activity: use
 team: TM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 69%
+source-wordcount: '258'
+ht-degree: 71%
 
 ---
 
@@ -23,7 +23,7 @@ Dans Adobe Campaign, vous pouvez personnaliser le contenu ou l’apparence des 
 3 - Insertion de champs de personnalisation dynamiques\
 4- Création de contenu conditionnel.
 
-Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser du code JavaScript dans les modèles de diffusion et normaliser et partager des blocs de contenu dans différents modèles de diffusion.
+Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utiliser le code JavaScript dans les modèles de diffusion et normaliser et partager les blocs de contenu dans différents modèles de diffusion.
 
 ## Création et ajout d’un bloc de personnalisation à une diffusion
 
@@ -43,4 +43,4 @@ Le paramétrage de champs de contenu conditionnel permet d’atteindre un niveau
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Pour en savoir plus sur la personnalisation, voir la section [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).
+Pour en savoir plus sur Personalization, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).

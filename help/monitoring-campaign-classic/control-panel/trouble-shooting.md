@@ -8,8 +8,8 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 98%
+source-wordcount: '327'
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ l&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit _Campai
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
-*Vérification de l&#39;ID org. IMS (00:26 min)*
+*Vérifier l’ID IMS Org (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
