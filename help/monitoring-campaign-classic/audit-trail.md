@@ -7,12 +7,12 @@ doc-type: feature video
 activity: understand
 team: PM
 role: Admin
-level: Beginner
+level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 100%
+source-wordcount: '159'
+ht-degree: 96%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 Le [!UICONTROL journal d&#39;audit] capture, en temps réel, une liste complète d&#39;actions et d&#39;événements se produisant dans Adobe Campaign. Les fonctionnalités du [!UICONTROL journal d&#39;audit] comprennent un accès en libre-service à un historique de données permettant de répondre à des questions, notamment :
 
 * Qu&#39;est-il advenu d&#39;un objet ?
-* Qui l&#39;a modifié en dernier et quand ?
+* Qui l’a modifié en dernier et quand ?
 * Quel était l&#39;état précédent ?
 
 >[!NOTE]

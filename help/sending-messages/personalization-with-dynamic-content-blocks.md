@@ -5,10 +5,11 @@ feature: Personalization
 jira: KT-1559
 doc-type: feature video
 activity: use
+level: Intermediate
 team: TM
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 71%
 
 ---
@@ -27,7 +28,7 @@ Ce tutoriel a démontré comment personnaliser le contenu de la diffusion, utili
 
 ## Création et ajout d’un bloc de personnalisation à une diffusion
 
-Un bloc de personnalisation est dynamique et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d&#39;e-mail, des liens vers des pages miroir, des liens de désabonnement, etc.
+Un bloc de personnalisation est dynamique et contient un code de rendu spécifique qui peut être ajouté aux diffusions. Par exemple, vous pouvez ajouter des images, des en-têtes et des pieds de page d’email, des liens vers des pages miroir, des liens de désabonnement, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
