@@ -24,4 +24,4 @@ Découvrez comment configurer les validations et une campagne et comment différ
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-Pour en savoir plus sur la définition des approbations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Pour en savoir plus sur la définition des approbations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=fr#sending-emails).
