@@ -17,4 +17,4 @@ ht-degree: 100%
 # E-mails déclenchés par les messages désactivés
 
 Découvrez comment arrêter les e-mails déclenchés par les messages désactivés
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437113?quality=12&learn=on&captions=fre_fr){transcript=true}

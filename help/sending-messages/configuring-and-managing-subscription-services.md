@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment configurer et gérer les abonnements et cibler les abonnés.
 
->[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452439?quality=12&learn=on&captions=fre_fr){transcript=true}

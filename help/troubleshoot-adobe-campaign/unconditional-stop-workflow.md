@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment effectuer correctement un arrêt inconditionnel dans un workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437449?quality=12&learn=on&captions=fre_fr){transcript=true}

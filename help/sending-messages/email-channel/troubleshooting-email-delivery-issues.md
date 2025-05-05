@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment résoudre les problèmes de diffusion e-mail dans Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343088?quality=12&learn=on&captions=fre_fr){transcript=true}

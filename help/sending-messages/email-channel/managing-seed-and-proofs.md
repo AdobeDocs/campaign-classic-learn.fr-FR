@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter des adresses de contrôle et des BAT à un e-mail existant et comment l&#39;envoyer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35541?quality=12&learn=on&captions=fre_fr){transcript=true}

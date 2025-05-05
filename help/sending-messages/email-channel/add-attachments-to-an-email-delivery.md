@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter des pièces jointes à une diffusion e-mail et comment configurer différents types de pièces jointes à un e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452991?quality=12&learn=on&captions=fre_fr){transcript=true}

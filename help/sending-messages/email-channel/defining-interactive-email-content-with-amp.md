@@ -25,7 +25,7 @@ Actuellement, seuls Gmail, Yahoo, FairEmail et Mail.ru prennent en charge le for
 
 La vidéo ci-dessous explique comment activer AMP dans Adobe Campaign Classic et présente son utilisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33568?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Vous pouvez utiliser la variable [Éditeur AMP](https://playground.amp.dev/fr/) pour créer votre propre code AMP.
 

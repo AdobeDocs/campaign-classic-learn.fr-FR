@@ -21,4 +21,4 @@ ht-degree: 88%
 
 Comprenez la différence entre les campagnes multicanal et cross-canal et ce que sont les cas d&#39;utilisation des campagnes cross-canal et multicanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/330984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345271?quality=12&learn=on&captions=fre_fr){transcript=true}

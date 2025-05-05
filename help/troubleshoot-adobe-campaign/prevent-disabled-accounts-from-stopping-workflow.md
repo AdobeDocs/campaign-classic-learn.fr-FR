@@ -19,4 +19,4 @@ ht-degree: 100%
 Découvrez comment résoudre le problème d&#39;un workflow qui s&#39;arrête, lorsque l&#39;utilisateur a été désactivé dans Adobe Campaign.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335988?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422509?quality=12&learn=on&captions=fre_fr){transcript=true}

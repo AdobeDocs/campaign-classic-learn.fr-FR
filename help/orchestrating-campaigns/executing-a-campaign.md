@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment exécuter une campagne, passer en revue une diffusion e-mail et les propriétés de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453380?quality=12&learn=on&captions=fre_fr){transcript=true}

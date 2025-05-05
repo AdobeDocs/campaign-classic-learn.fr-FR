@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Découvrez comment résoudre les erreurs de mémoire insuffisante pour les installations on-premise.
 
->[!VIDEO](https://video.tv.adobe.com/v/335891?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422559?quality=12&learn=on&captions=fre_fr){transcript=true}

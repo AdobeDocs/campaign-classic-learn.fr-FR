@@ -23,4 +23,4 @@ Une liste est un ensemble statique de destinataires qui peut être ciblé dans d
 
 Découvrez comment créer une audience en configurant une liste de destinataires à partir de l&#39;Explorateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30599?learn=on&captions=fre_fr){transcript=true}

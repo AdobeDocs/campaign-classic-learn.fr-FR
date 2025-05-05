@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter des paramètres supplémentaires au RCP d&#39;abonnement de l&#39;application si ceux-ci ne sont pas renseignés.
 
->[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422514?quality=12&learn=on&captions=fre_fr){transcript=true}

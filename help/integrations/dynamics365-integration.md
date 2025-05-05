@@ -23,4 +23,4 @@ ht-degree: 45%
 
 Cette vidéo montre comment intégrer Dynamics 365 à Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327251?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer une diffusion e-mail directement à partir d&#39;une campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27487?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -24,6 +24,6 @@ Les règles de typologie permettent aux spécialistes marketing de normaliser pl
 
 Cette vidéo explique comment implémenter la gestion de la fatigue dans Adobe Campaign Classic en appliquant des règles de typologie.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30590?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Consultez la documentation du produit pour en savoir plus sur les [typologies de campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=fr).

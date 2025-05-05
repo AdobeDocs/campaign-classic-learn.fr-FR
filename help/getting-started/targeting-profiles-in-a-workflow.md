@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Maîtrisez l&#39;utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l&#39;aide de conditions de filtrage.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327083?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Tutoriels suivants à regarder
 

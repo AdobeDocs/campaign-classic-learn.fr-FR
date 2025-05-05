@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Comprendre comment activer les adresses IP pour effectuer des requêtes SOAP
 
->[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422573?quality=12&learn=on&captions=fre_fr){transcript=true}

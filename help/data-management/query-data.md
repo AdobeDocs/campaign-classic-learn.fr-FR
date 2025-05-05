@@ -21,4 +21,4 @@ ht-degree: 18%
 
 Découvrez comment interroger des données à l’aide de l’éditeur de requêtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447872?quality=12&learn=on&captions=fre_fr){transcript=true}

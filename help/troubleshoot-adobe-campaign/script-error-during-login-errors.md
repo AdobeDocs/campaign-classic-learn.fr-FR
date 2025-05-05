@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment corriger les erreurs ou les avertissements affichés lors du processus de connexion à Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436216?quality=12&learn=on&captions=fre_fr){transcript=true}

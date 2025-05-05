@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment configurer, personnaliser et tester le contenu d’une diffusion e-mail. Découvrez comment utiliser des modèles, télécharger des images, ajouter des émoticônes et incorporer des codes à barres et des codes QR.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453863?learn=on&captions=fre_fr){transcript=true}

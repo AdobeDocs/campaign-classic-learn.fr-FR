@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment configurer une diffusion pour les tests A/B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446289?quality=12&learn=on&captions=fre_fr){transcript=true}

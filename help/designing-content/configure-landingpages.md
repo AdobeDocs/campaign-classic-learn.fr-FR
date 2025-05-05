@@ -21,6 +21,6 @@ ht-degree: 8%
 
 Découvrez comment créer et configurer des landing pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448908/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d&#39;informations, consultez la documentation détaillée sur la [création d&#39;une landing page](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=fr).

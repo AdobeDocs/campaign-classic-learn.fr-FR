@@ -41,6 +41,6 @@ Les logs de [!UICONTROL journal d&#39;audit] consignent et répertorient les act
 
 La vidéo ci-dessous décrit à partir de quel emplacement accéder aux journaux d&#39;audit et quels paramètres peuvent être configurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33901?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d&#39;informations, consultez la [documentation relative au journal d&#39;audit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=fr).

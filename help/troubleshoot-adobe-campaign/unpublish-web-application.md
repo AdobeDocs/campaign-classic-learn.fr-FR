@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment dépublier une application web dans Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422568?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment affiner votre cible en combinant les résultats des requêtes dans un workflow à l&#39;aide des activités d&#39;**[!UICONTROL intersection]** ou d&#39;**[!UICONTROL union]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326547?quality=12&learn=on&captions=fre_fr){transcript=true}

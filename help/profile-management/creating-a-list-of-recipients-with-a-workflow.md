@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer un workflow pour cibler des destinataires, et comment le rendre récurrent avant d’utiliser la liste dans une cible d’email.
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30539?quality=12&learn=on&captions=fre_fr){transcript=true}

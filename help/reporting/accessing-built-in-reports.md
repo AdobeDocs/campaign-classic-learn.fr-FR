@@ -21,4 +21,4 @@ ht-degree: 56%
 
 Découvrez les analyses et les rapports natifs en Campaign Classic et comment générer un rapport de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449488?quality=12&learn=on&captions=fre_fr){transcript=true}

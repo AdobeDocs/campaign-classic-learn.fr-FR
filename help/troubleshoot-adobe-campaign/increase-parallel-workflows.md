@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment augmenter le nombre de workflows de campagne pouvant être exécutés sur l&#39;instance en parallèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436576?quality=12&learn=on&captions=fre_fr){transcript=true}

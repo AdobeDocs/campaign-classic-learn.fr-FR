@@ -26,6 +26,6 @@ Un bloc de personnalisation est dynamique, personnalisé, et contient un code de
 
 Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31325?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour en savoir plus sur la personnalisation, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).

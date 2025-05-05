@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment affiner votre cible en appliquant une **[!UICONTROL exclusion standard]** à un workflow. Vous apprendrez également comment créer des filtres prédéfinis et comment résoudre les problèmes de votre workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326451?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -30,6 +30,6 @@ Vous apprendrez comment
 * Rechercher et créer des rapports sur les données
 * Exporter des données dans des listes et créer des filtres de ciblage en temps réel
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35580?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations sur la configuration de l’accès à Snowflake, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=fr).

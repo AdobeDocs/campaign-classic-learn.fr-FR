@@ -22,6 +22,6 @@ L’activité d’enrichissement est un objet de workflow qui ajoute des donnée
 
 Découvrez comment configurer une activité d’enrichissement en fonction des informations du log de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37586?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations sur l’enrichissement, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=fr)

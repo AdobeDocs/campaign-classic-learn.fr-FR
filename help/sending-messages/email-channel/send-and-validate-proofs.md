@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment envoyer et valider un BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448919?learn=on&captions=fre_fr){transcript=true}

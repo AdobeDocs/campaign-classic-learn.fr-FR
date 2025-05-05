@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment vérifier si les conditions préalables sont remplies lors de l&#39;installation d&#39;un certificat SSL.
 
->[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422504?quality=12&learn=on&captions=fre_fr){transcript=true}
