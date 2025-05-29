@@ -2,7 +2,7 @@
 title: Prise en main des notifications push pour Android - Introduction
 description: Ce tutoriel vous guide tout au long des étapes nécessaires à l’envoi de notifications push depuis Adobe Campaign et à la réception de ces notifications dans votre application Android.
 feature: Push
-jira: KT-6438
+jira: KT-5951
 doc-type: article
 activity: setup
 team: TM
@@ -10,9 +10,9 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '355'
 ht-degree: 100%
 
 ---
@@ -43,7 +43,7 @@ Avant de commencer, vous devez disposer des éléments suivants :
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-## Vue d’ensemble du tutoriel
+## Présentation du tutoriel
 
 Nous souhaitons envoyer une notification promotionnelle personnalisée [!DNL push] aux abonnés de l’application mobile [!DNL Neotrip] [!DNL Android]. L’application [!DNL Neotrip] est configurée avec [!DNL Campaign SDK] et nous nous sommes assurés que [!DNL Mobile App channel] est activé sur notre instance [!DNL Campaign].
 
