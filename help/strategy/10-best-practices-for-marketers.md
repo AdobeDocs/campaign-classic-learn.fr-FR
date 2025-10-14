@@ -26,7 +26,7 @@ Dans cet article, Christian partage ses bonnes pratiques pour aider les utilisat
 
 La première étape pour garantir le succès avec [!DNL Adobe Campaign] est de comprendre vos outils et les attentes de vos client(e)s, ce qui est vrai dans n’importe quel type de marketing. Définissez et comprenez clairement les canaux que vous utilisez pour contacter vos client(e)s, sachez quand utiliser ces canaux et pourquoi.
 
-Adobe Campaign est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat ](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
+Adobe Campaign est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des client(e)s utilisent trois à cinq canaux lors de chaque parcours d’achat &#x200B;](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
 
 ## 2. Documenter et comprendre vos données des client(e)s
 
