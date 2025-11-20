@@ -27,7 +27,7 @@ ht-degree: 96%
    + [Création de campagnes déclenchées par un événement](/help/getting-started/create-event-triggered-campaigns.md)
 + Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
-   + [Importer des profils ](/help/data-management/importing-profiles.md)
+   + [Importer des profils &#x200B;](/help/data-management/importing-profiles.md)
    + [Création d&#39;une liste de destinataires](/help/profile-management/creating-a-list-of-recipients.md)
    + [Création d&#39;une liste de destinataires avec un workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envoyer des messages{#sending-messages}
