@@ -6,16 +6,16 @@ user-guide-description: Vidéos et tutoriels pour Adobe Campaign Classic v7.
 breadcrumb-title: Tutoriels Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # Tutoriels Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic v7 – Tutoriels](/help/overview.md)
++ [Adobe Campaign Classic v7 - Tutoriels](/help/overview.md)
 + Commencer {#getting-started}
    + [Présentation d&#39;Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -24,15 +24,15 @@ ht-degree: 96%
    + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Création d&#39;une campagne et d&#39;un e-mail](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Ciblage de profils dans un workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Création de campagnes déclenchées par un événement](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Créer des campagnes déclenchées par un événement](/help/getting-started/create-event-triggered-campaigns.md)
 + Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
-   + [Importer des profils &#x200B;](/help/data-management/importing-profiles.md)
+   + [Importer des profils ](/help/data-management/importing-profiles.md)
    + [Création d&#39;une liste de destinataires](/help/profile-management/creating-a-list-of-recipients.md)
    + [Création d&#39;une liste de destinataires avec un workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envoyer des messages{#sending-messages}
    + Canal e-mail{#email-channel}
-      + [Création et conception de diffusions e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Créer et concevoir des diffusions e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Concevoir du contenu de diffusion e-mail](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Gestion de l&#39;adresse de contrôle et des BAT dans un e-mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envoi et validation de BAT](/help/sending-messages/email-channel/send-and-validate-proofs.md)
@@ -46,7 +46,7 @@ ht-degree: 96%
       + [Définition du contenu d&#39;e-mail interactif avec AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Résolution des problèmes de diffusion e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Ajouter des pièces jointes à une diffusion e-mail](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [Conception d&#39;e-mails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Concevoir des e-mails pour la délivrabilité](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Optimiser le RSI des e-mails et les bonnes pratiques pour le réengagement des abonnés](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=fr)
       + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
    + Canal SMS {#sms-channel}
@@ -66,7 +66,7 @@ ht-degree: 96%
       + [Utilisation de filtres prédéfinis](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + Surveillance des messages {#monitoring-messages}
       + [Présentation de la gestion des quarantaines](/help/sending-messages/quarantine-management.md)
-   + [Configuration et gestion des services d&#39;abonnement](/help/sending-messages/configuring-and-managing-subscription-services.md)
+   + [Configuration et gestion des services d’abonnement](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrer des campagnes {#orchestration}
    + [Exécution d&#39;une campagne](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Introduction aux campagnes multicanal et cross-canal](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -75,7 +75,7 @@ ht-degree: 96%
 + Rapport {#reporting}
    + [Accès aux rapports natifs](/help/reporting/accessing-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatisation avec workflow{#automating-with-workflows}
++ Automatiser avec un workflow{#automating-with-workflows}
    + [Créer un workflow](/help/automating-with-workflows/creating-a-workflow.md)
    + [Création d&#39;un workflow de ciblage](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Affinage des cibles en combinant les résultats des requêtes](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -100,11 +100,11 @@ ht-degree: 96%
 + Intégrer {#integrating}
    + [Intégration à Adobe Target](/help/integrations/target-integration.md)
    + [Intégration à Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Administration {#administrating}
++ Administrer {#administrating}
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target="_blank"}
-   + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
-   + Accéder à une base externe (FDA) {#fda}
+   + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
+   + Accéder à une base de données externe (FDA) {#fda}
       + [Gestion des big data sur  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Résolution des problèmes d&#39;Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=fr)
-+ Stratégie et leadership{#strategy}
-   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les spécialistes marketing](/help/strategy/10-best-practices-for-marketers.md)
++ Leadership en matière de stratégie et de pensée{#strategy}
+   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les personnes spécialisées dans le marketing](/help/strategy/10-best-practices-for-marketers.md)
