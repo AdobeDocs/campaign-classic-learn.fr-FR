@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449972?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >S’il existe plusieurs diffusions dans le workflow de ciblage, vous devez activer les paramètres de la population témoin au niveau de la diffusion ainsi que dans les paramètres de la campagne.
