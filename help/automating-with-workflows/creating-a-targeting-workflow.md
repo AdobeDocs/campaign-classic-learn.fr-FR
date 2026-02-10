@@ -20,4 +20,4 @@ ht-degree: 15%
 
 Adobe Campaign utilise des workflows pour réaliser des campagnes de ciblage, créer des campagnes ou exécuter des processus techniques Adobe Campaign. Dans cette vidéo, nous nous concentrons sur les workflows de ciblage. Les workflows de ciblage permettent de construire plusieurs cibles de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424568?captions=fre_fr&quality=12&learn=on){transcript=true}
