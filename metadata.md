@@ -6,33 +6,33 @@ solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.fr-FR
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 8b3e7a5dcc8b55cbc0fdb5c4220dc1329e320259
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md des guides de l&#39;utilisateur dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
 
-| metadata | rôle |
+| métadonnées | ce qu&#39;il fait |
 |--- |--- |
-| solution-title | Utilisé dans l’en-tête de l’article en tant que lien |
-| solution-hub-url | Ouvre la page de hub helpx |
-| solution-icon | Affiche l’icône de solution en regard du titre de la solution. Pas encore mis en œuvre |
-| getting-started-url | Lien vers la page de prise en main helpx |
-| tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou tutoriels KT |
-| mini-toc-levels | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le rail droit. la valeur par défaut est de 2 |
-| git-repo | Spécifie l’emplacement du référentiel maître pour une utilisation interne |
+| solution-title | Utilisé dans l’en-tête de l’article comme lien |
+| solution-hub-url | Ouvre la page hub d’aide |
+| solution-icon | Affiche l’icône de la solution en regard du titre de la solution. Pas encore implémenté |
+| getting-started-url | Lien vers la page de prise en main |
+| tutorials-url | Lien vers des tutoriels vidéo : tutoriels d’aide ou tutoriels d’AC. |
+| niveaux de mini-table des matières | Détermine le nombre de niveaux de titre qui apparaissent dans le rail de droite. la valeur par défaut est 2 |
+| git-repo | Spécifie l&#39;emplacement du référentiel principal pour une utilisation interne |
 
 Dans le fichier TOC.md
 
-| metadata | rôle |
+| métadonnées | ce qu&#39;il fait |
 |--- |--- |
-| user-guide-title | Utilisé dans l’en-tête de l’article en tant que lien |
-| user-guide-url | Ouvre la page de hub helpx |
+| user-guide-title | Utilisé dans l’en-tête de l’article comme lien |
+| user-guide-url | Ouvre la page hub d’aide |
