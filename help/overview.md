@@ -8,7 +8,7 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 303705cfde82c630dbf603ab40b7df1c73113449
 workflow-type: ht
-source-wordcount: '197'
+source-wordcount: '223'
 ht-degree: 100%
 
 ---
@@ -77,6 +77,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 </div>
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=fr)

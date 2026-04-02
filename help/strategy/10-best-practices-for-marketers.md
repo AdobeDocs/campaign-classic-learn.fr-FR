@@ -9,9 +9,9 @@ jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1354'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ Dans cet article, Christian partage ses bonnes pratiques pour aider les utilisat
 
 La première étape pour garantir le succès avec [!DNL Adobe Campaign] est de comprendre vos outils et les attentes de vos client(e)s, ce qui est vrai dans n’importe quel type de marketing. Définissez et comprenez clairement les canaux que vous utilisez pour contacter vos client(e)s, sachez quand utiliser ces canaux et pourquoi.
 
-Adobe Campaign est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de différentes manières. [La moitié des clients utilisent trois à cinq canaux lors de chaque parcours d’achat](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
+Adobe Campaign est un outil flexible qui vous permet d’exécuter et d’orchestrer des communications de multiples façons. [La moitié des clients ou des clientes interagissent avec trois à cinq canaux au cours de chaque parcours d’achat](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters).Il est donc essentiel de comprendre et de planifier l’utilisation de ces canaux pour accomplir tout le potentiel de votre plateforme et interagir avec vos client(e)s.
 
-## &#x200B;2. Documenter et comprendre les données de vos clients
+## &#x200B;2. Documenter et comprendre vos données client
 
 <!--
 Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
@@ -50,17 +50,17 @@ Vos campagnes sont aussi efficaces que les structures de données sous-jacentes 
 
 Comme vos client(e)s, vous avez une routine quotidienne. L’envoi et l’orchestration de vos campagnes doivent correspondre à ce rythme. Sinon, vous risquez de ne pas atteindre vos client(e)s, étant donné que [85 % des e-mails envoyés ne sont jamais ouverts et 98 % n’obtiennent pas de clic publicitaire](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL Campaign] pour suivre l’exécution de vos workflows et envois. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Garder un œil sur le rythme, la cadence et le timing de vos e-mails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr) est essentiel pour assurer la stabilité et la force globales de votre message et de votre instance Campaign.
+Si, par exemple, vos client(e)s consultent leur téléphone le matin à la recherche des meilleures offres, envisagez de leur envoyer une promotion par SMS. S’ils ou elles naviguent la nuit en quête de la prochaine tendance, pensez à envoyer un e-mail de relance avec un code promo pour une livraison gratuite. Il est également important d’utiliser l’outil de carte thermique dans [!DNL Campaign] pour suivre l’exécution de vos workflows et envois. La coordination et la facilitation des communications entre plusieurs marques peut s’avérer difficile. [Surveiller et connaître le rythme, la cadence et la fréquence d’envoi de vos e-mails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=fr) sont essentiels à la stabilité globale et à l’efficacité de vos messages et de votre instance Campaign.
 
-## &#x200B;4. Utiliser la personnalisation là où cela importe
+## &#x200B;4. Utiliser la personnalisation là où elle compte vraiment
 
-De nos jours, les consommateurs attendent un certain niveau de personnalisation dans les messages qu&#39;ils reçoivent. [80 % des clients sont plus susceptibles d’acheter auprès d’une marque qui fournit des expériences personnalisées](https://us.epsilon.com/power-of-me). Leur nom dans la ligne d’objet est attrayant. Cependant, la personnalisation peut aller beaucoup plus loin. Vous pouvez inclure les produits qu’ils ont parcourus, les connecter à des produits similaires ou continuer à renforcer la cohésion de l’expérience et l’aspect de votre marque. Chaque détail compte et favorise l’engagement et les taux d’ouverture de vos messages.
+De nos jours, les consommateurs et les consommatrices attendent un certain niveau de personnalisation dans les messages qu’ils et elles reçoivent. [ 80 % des clientes ou des clients sont plus susceptibles d’effectuer un achat auprès d’une marque qui propose des expériences personnalisées](https://us.epsilon.com/power-of-me).Leur nom dans la ligne d’objet est attrayant. Cependant, la personnalisation peut aller beaucoup plus loin. Vous pouvez inclure les produits qu’ils ont parcourus, les connecter à des produits similaires ou continuer à renforcer la cohésion de l’expérience et l’aspect de votre marque. Chaque détail compte et favorise l’engagement et les taux d’ouverture de vos messages.
 
-## &#x200B;5. disposer d’un inventaire sain de ressources de création ;
+## &#x200B;5. Posséder un inventaire sain de ressources  de création
 
 Les ressources de création sont l’essence qui alimente votre moteur de diffusion de campagne efficace et bien huilé. Plus vous atteignez vos client(e)s et plus vous adaptez et plus vous faites évoluer vos processus de marketing, plus vous avez besoin de contenu créatif. Les consommateurs et consommatrices s’attendent à cela.
 
-Votre rapidité dépend de la prochaine diffusion que votre équipe peut configurer. Cela nécessite souvent du contenu nouveau et passionnant. [!DNL Adobe Campaign] facilite la configuration des modèles ainsi que la réception et la préparation de ces diffusions. Toutefois, il est essentiel d’avoir un pipeline de création sain, car, selon un [rapport Litmus](https://www.litmus.com/resources/state-of-email/), 58 % des spécialistes marketing ont remarqué que la création d’une campagne par e-mail prend deux semaines ou plus.
+Votre rapidité dépend de la prochaine diffusion que votre équipe peut configurer. Cela nécessite souvent du contenu nouveau et passionnant. [!DNL Adobe Campaign]. facilite la configuration des modèles ainsi que la réception et la préparation de ces diffusions.Toutefois, il est essentiel d’avoir un pipeline de création sain, car, selon un [rapport Litmus](https://www.litmus.com/resources/state-of-email/), 58 % des spécialistes marketing ont remarqué que la création d’une campagne par e-mail prend deux semaines ou plus.
 
 ## &#x200B;6. Comprendre et gérer les abonnements et les préférences
 
@@ -84,7 +84,7 @@ La création d’un ensemble modélisé de questions peut contribuer à alimente
 
 Quand on essaie de nouvelles choses, on ne réussit pas toujours du premier coup. Il est donc essentiel de tester et d’itérer vos processus et tactiques. Essayez de trouver un groupe de client(e)s qui ne sont pas forcément intéressé(e)s ou qui pourraient l’être. Adoptez une nouvelle approche créative. Essayez un nouvel appel à l’action. Changer simplement pour changer n’est pas productif, mais plusieurs petites expériences précises au fil du temps peuvent aboutir à des gains futurs potentiellement importants pour vous et vos client(e)s.
 
-## &#x200B;10. Restez aussi agile que possible
+## &#x200B;10. Être aussi agile que possible
 
 Le marché change et évolue à un rythme toujours plus effréné. Il est primordial d’encourager vos équipes de campagne à rester aussi flexibles et rapides que possible afin de rester compétitif et de continuer à répondre aux attentes croissantes des client(e)s.
 

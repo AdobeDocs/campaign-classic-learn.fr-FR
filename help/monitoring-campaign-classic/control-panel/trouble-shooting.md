@@ -7,8 +7,8 @@ doc-type: article
 activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '327'
+workflow-type: ht
+source-wordcount: '363'
 ht-degree: 100%
 
 ---
@@ -41,18 +41,18 @@ l&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit _Campai
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/34941?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
-*Vérifier l’ID IMS Org (00:26 min)*
+*Vérifier l’identifiant d’organisation IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34775?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
-*Comment ajouter un administrateur aux administrateurs de profil de produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
+*Comment ajouter un administrateur ou une administratrice à l’équipe d’administration du profil produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
 
 ### Documentation utile
 
 * [Découverte du Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
-* [[!UICONTROL Gestion des autorisations pour le Panneau de contrôle]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
+* [Gestion des autorisations pour le [!UICONTROL Panneau de contrôle]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
 
 ## Établissement de la connexion au serveur SFTP (client ou API)
 

@@ -12,14 +12,14 @@ recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: ht
-source-wordcount: '355'
+source-wordcount: '388'
 ht-degree: 100%
 
 ---
 
 # Prise en main des notifications push pour Android - Introduction
 
-Adobe Campaign vous permet d’envoyer des notifications personnalisées et segmentés [!DNL push] aux appareils mobiles [!DNL iOS] et [!DNL Android]. Ce tutoriel montre les étapes à suivre pour envoyer des notifications [!DNL push] d’Adobe Campaign à une application [!DNL Android].
+Adobe Campaign vous permet d&#39;envoyer des notifications personnalisées et segmentés [!DNL push] aux appareils mobiles [!DNL iOS] et [!DNL Android]. Ce tutoriel montre les étapes à suivre pour envoyer des notifications [!DNL push] d’Adobe Campaign à une application [!DNL Android].
 
 ## Conditions préalables requises
 
@@ -35,7 +35,7 @@ Avant de commencer, vous devez disposer des éléments suivants :
 
    Vous pouvez également utiliser le SDK Mobile Experience Platform. Pour en savoir plus, visionnez le tutoriel vidéo suivant :
 
-   [Configuration du canal Push à l’aide du SDK Mobile Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=fr)
+   [Configuration du canal push à l’aide du SDK Mobile Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=fr)
 
 2) Package **[!DNL Mobile App channel]installé**
 
@@ -49,7 +49,7 @@ Nous souhaitons envoyer une notification promotionnelle personnalisée [!DNL pus
 
 Les étapes de configuration suivantes sont requises :
 
-### Étape 1 : étendre le schéma d’abonnement de l’application pour personnaliser les notifications [!DNL push] notifications.
+### Étape 1 : étendre le schéma d&#39;abonnement de l&#39;application pour personnaliser les notifications [!DNL push].
 
 Comme nous souhaitons personnaliser la notification [!DNL push], nous allons tout d’abord [étendre le schéma d’abonnement de l’application](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) pour pouvoir stocker les valeurs de personnalisation que nous recevons de l’application lorsque l’utilisateur s’abonne au service.
 
