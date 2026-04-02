@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment filtrer les workflows pour lesquels la condition &quot;Conserver le résultat&quot; est définie sur true.
 
->[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422563?captions=fre_fr&quality=12&learn=on){transcript=true}
