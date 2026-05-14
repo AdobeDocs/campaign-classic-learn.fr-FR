@@ -33,7 +33,7 @@ ht-degree: 43%
 
 Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453259?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 >[!NOTE]
 > La vidéo a été enregistrée dans Campaign V8. La fonctionnalité est la même pour Campaign Classic V7 et Campaign V8.

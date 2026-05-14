@@ -31,7 +31,7 @@ ht-degree: 100%
 
 Découvrez comment configurer et envoyer une [!DNL push] notification aux utilisateurs d’une application [!DNL Android].
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340726?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 **Étape précédente**
 

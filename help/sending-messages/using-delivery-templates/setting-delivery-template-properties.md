@@ -28,4 +28,4 @@ ht-degree: 78%
 
 La vidéo suivante montre comment définir les propriétés des modèles de diffusion et explique en détail chaque propriété.
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37961?captions=fre_fr&quality=12&learn=on){transcript=true}

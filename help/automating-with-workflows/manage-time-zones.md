@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Découvrez comment appliquer des fuseaux horaires aux activités de workflow planifiées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443849?captions=fre_fr&quality=12&learn=on){transcript=true}

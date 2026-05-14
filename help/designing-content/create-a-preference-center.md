@@ -32,6 +32,6 @@ ht-degree: 37%
 
 Découvrez comment créer un centre de préférences à l’aide de l’éditeur d’applications web d’Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30591?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Pour plus d&#39;informations, consultez la documentation détaillée sur la [Création d&#39;une landing page](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=fr).

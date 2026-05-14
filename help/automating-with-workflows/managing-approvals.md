@@ -29,6 +29,6 @@ ht-degree: 57%
 Les validations permettent à des opérateurs de prendre des décisions à certaines étapes d&#39;un workflow ou de confirmer la poursuite d&#39;un traitement.
 Découvrez comment configurer les validations et une campagne et comment différencier les validations de diffusion et de workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452609?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Pour en savoir plus sur la définition des validations, voir la [Documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=fr#sending-emails).

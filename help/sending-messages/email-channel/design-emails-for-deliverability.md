@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Découvrez comment appliquer les bonnes pratiques en matière de délivrabilité à votre campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452560?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

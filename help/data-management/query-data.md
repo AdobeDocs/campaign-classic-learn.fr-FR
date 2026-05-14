@@ -30,4 +30,4 @@ ht-degree: 18%
 
 Découvrez comment interroger des données à l’aide du requêteur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447872?captions=fre_fr&quality=12&learn=on){transcript=true}

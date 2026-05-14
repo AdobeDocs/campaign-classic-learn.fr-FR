@@ -36,4 +36,4 @@ Découvrez le concept des profils dans Adobe Campaign Classic. Découvrez commen
 
 Cette vidéo explique également la conformité d’Adobe Campaign Classic avec le règlement général sur la protection des données (RGPD) et avec la loi sur la protection des données personnelles des consommateurs résidant en Californie (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424578?captions=fre_fr&quality=12&learn=on){transcript=true}

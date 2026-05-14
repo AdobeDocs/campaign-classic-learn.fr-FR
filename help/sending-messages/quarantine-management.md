@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Découvrez le fonctionnement de la gestion des quarantaines dans Adobe Campaign et comment gérer les adresses en quarantaine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421898?captions=fre_fr&quality=12&learn=on){transcript=true}

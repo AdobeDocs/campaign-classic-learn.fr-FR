@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Découvrez comment configurer une activité de planificateur dans un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447110?captions=fre_fr&quality=12&learn=on){transcript=true}

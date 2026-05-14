@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Découvrez les différents types de contenu dynamique et apprenez à créer et à appliquer des blocs de personnalisation et des instructions conditionnelles à une diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343095?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=fr).
