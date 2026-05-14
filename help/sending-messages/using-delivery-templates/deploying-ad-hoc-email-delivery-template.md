@@ -1,6 +1,6 @@
 ---
-title: Déploiement d’un modèle de diffusion email ad hoc dans Adobe Campaign Classic
-description: Découvrez comment déployer un modèle de diffusion email ad hoc et comprendre la différence entre une diffusion email et un workflow de diffusion.
+title: Déploiement d'un modèle de diffusion e-mail ad hoc dans Adobe Campaign Classic
+description: Découvrez comment déployer un modèle de diffusion e-mail ad hoc et quelle est la différence entre une diffusion e-mail et un workflow de diffusion.
 feature: Delivery Templates
 jira: KT-1565
 thumbnail: 24065.jpg
@@ -10,10 +10,17 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/8S4Lc0Zozb1CjVyqtN--iB6GgvwB8ZyugoWBqxPLSt0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 50%
+source-wordcount: 65
+ht-degree: 49%
 
 ---
 
@@ -21,4 +28,4 @@ ht-degree: 50%
 
 Cette vidéo montre comment déployer un modèle de diffusion email ad hoc. Elle explique aussi la différence entre une diffusion email et un workflow de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/27448?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27448?captions=fre_fr&quality=12&learn=on){transcript=true}

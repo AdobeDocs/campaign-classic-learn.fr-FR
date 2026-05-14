@@ -10,13 +10,20 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
-workflow-type: ht
-source-wordcount: '115'
+TQID: https://experienceleague.adobe.com/dw5qPs17IJiwe6cbieK2hHclpJsA6YE6wkcP55V-YDc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+workflow-type: tm+mt
+source-wordcount: 126
 ht-degree: 100%
 
 ---
-
 
 # Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique
 
@@ -26,6 +33,6 @@ Un bloc de personnalisation est dynamique, personnalisé, et contient un code de
 
 Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/31325?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31325?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Pour en savoir plus sur la personnalisation, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).

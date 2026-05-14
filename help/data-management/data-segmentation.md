@@ -9,22 +9,35 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/GO7vLCIH3da7Y5Q6a3t1zUrgXUKOBfxef-6RetcpEho
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+subfeature_v2:
+  - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 2%
+source-wordcount: 280
+ht-degree: 1%
 
 ---
 
 # Segmentation des données
 
-Adobe Campaign vous permet d’effectuer une segmentation avancée par le biais de requêtes approfondies des attributs du consommateur commun et d’autres sources de données, ce qui vous permet de créer des listes réutilisables, de mettre à jour dynamiquement des listes en fonction de modifications en temps réel des données, voire d’effectuer des activités plus complexes telles que des tests multivariés sur l’un de ces points de données. Ce tutoriel explique le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils.
+Adobe Campaign vous permet d’effectuer une segmentation avancée par le biais de requêtes profondes sur les attributs courants des consommateurs et d’autres sources de données, ce qui vous permet de créer des listes réutilisables, de mettre à jour de manière dynamique les listes en fonction des modifications en temps réel des données et d’effectuer même des activités plus complexes, telles que des tests multi-variables sur l’un de ces points de données. Ce tutoriel explique le profil client intégré, comment créer et mettre à jour les profils et comment créer des segments de clients en fonction de ces profils.
 
 ## Integrated Customer Profile {#integrated-customer-profile}
 
-Les clients génèrent des données avec chaque canal à l’aide de leurs doigts, car ils font tout ce que les gens font lorsqu’ils tentent de prendre une décision d’achat ou simplement d’interagir avec votre marque.
+Les clients génèrent des données avec chaque canal à portée de main comme ils font tout ce que les gens font lorsqu&#39;ils tentent de prendre une décision d&#39;achat ou simplement d&#39;interagir avec votre marque.
 
-Le profil client intégré d’Adobe Campaign permet aux marketeurs de capturer et de gérer ces données à grande échelle, depuis les attributs de profil tels que les détails démographiques &quot;code postal&quot; &quot;adresse&quot; &quot;genre&quot;, etc., jusqu’aux données d’interaction, &quot;ouverture d’un message&quot;, &quot;clic sur un email&quot;, &quot;visite de site web&quot;, en passant par les données de conversion et même les données hors ligne.
+Le profil client intégré d’Adobe Campaign permet aux marketeurs de capturer et de gérer ces données à grande échelle, depuis les attributs de profil tels que les détails démographiques, l’« adresse », le « genre », etc. jusqu’aux données d’interaction, l’« ouverture d’un message », le « clic sur un e-mail », la « visite d’un site web », en passant par les données de conversion et même les données hors ligne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
 
@@ -32,11 +45,11 @@ Le profil client intégré d’Adobe Campaign permet aux marketeurs de capturer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on){transcript=true}
 
-## Segmentation des clients  {#customer-segmentation}
+## Segmentation des clientes et clients  {#customer-segmentation}
 
-Une fois que vous avez compris les profils, vous êtes prêt à effectuer une segmentation avancée par le biais de requêtes approfondies des attributs du consommateur communs et d’autres sources de données. Permet de créer des listes réutilisables, de mettre à jour dynamiquement des listes en fonction de modifications en temps réel des données et même d’effectuer des activités plus complexes telles que le test multivarié sur n’importe quel point de données.
+Une fois que vous avez compris les profils, vous êtes prêt à effectuer une segmentation avancée par le biais de requêtes profondes des attributs courants des consommateurs et d’autres sources de données. Vous permet de créer des listes réutilisables, de mettre à jour les listes de manière dynamique en fonction des modifications en temps réel des données et d’effectuer même des activités plus complexes, telles que des tests multi-variables sur l’un de ces points de données.
 
-Remarque : Cette vidéo a été enregistrée dans Adobe Campaign Classic V6. La fonctionnalité est exactement la même, mais les icônes de workflow ont changé.
+Remarque : cette vidéo a été enregistrée dans Adobe Campaign Classic V6. Les fonctionnalités sont exactement les mêmes, mais les icônes de workflow ont changé.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
 
