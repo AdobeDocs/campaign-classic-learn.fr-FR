@@ -25,4 +25,4 @@ ht-degree: 100%
 # Problèmes de répartition de charge
 
 Découvrez comment résoudre les problèmes de répartition de charge lors du redémarrage de linstance
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437493?captions=fre_fr&quality=12&learn=on){transcript=true}
