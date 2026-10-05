@@ -9,20 +9,33 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-TQID: https://experienceleague.adobe.com/KhR76gfI2ZAMjDZDHCm7tOqQcJ5atG23hAwssYh3kcc
+TQID: 'https://experienceleague.adobe.com/KhR76gfI2ZAMjDZDHCm7tOqQcJ5atG23hAwssYh3kcc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
+  - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+    internal-label: Approvals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 274
+source-wordcount: '274'
 ht-degree: 96%
-
 ---
-
 # Création de workflows de validation
 
 Adobe Campaign offre plusieurs options aux spécialistes marketing pour examiner et fournir le contenu des diffusions, la cible des campagnes, l&#39;extraction des données et les validations de budget.
@@ -40,18 +53,18 @@ Avant d&#39;activer les étapes de validation, l&#39;équipe marketing doit déf
 
 Si vous disposez du même jeu de validants pour toutes les diffusions de votre workflow de campagne, appliquez la fonctionnalité de validation de la campagne, en configurant les validations et les validants au niveau de la campagne. Les tâches de validation et les validants sont redirigés vers chaque activité de diffusion de votre workflow une fois celui-ci exécuté.
 
->[!VIDEO](https://video.tv.adobe.com/v/30230?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on){transcript=true}
 
 ## Configuration des validations pour les diffusions  {#configuring-approvals-for-deliveries}
 
 Vous pouvez également configurer les validations au niveau de la diffusion. Si les étapes de validation des diffusions et les validants diffèrent des étapes de validation de le la campagne et des validants, les paramètres de la diffusion remplacent les paramètres de la campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/27477?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on){transcript=true}
 
 ## Configuration d&#39;une activité de validation  {#configuring-an-approval-activity}
 
 Contrairement aux validations de diffusion ou de campagne, l&#39;activité de validation permet de créer un processus de validation au sein d&#39;un workflow. Ainsi, la logique de sélection du ciblage peut être validée avant le lancement de la diffusion. Cela permet également la validation à plusieurs niveaux dans le workflow, si nécessaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/27482?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on){transcript=true}
 
 Pour plus d&#39;informations, consultez la [documentation sur la validation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=fr).

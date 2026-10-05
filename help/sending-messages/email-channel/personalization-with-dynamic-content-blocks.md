@@ -10,21 +10,31 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-TQID: https://experienceleague.adobe.com/dw5qPs17IJiwe6cbieK2hHclpJsA6YE6wkcP55V-YDc
+TQID: 'https://experienceleague.adobe.com/dw5qPs17IJiwe6cbieK2hHclpJsA6YE6wkcP55V-YDc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Personalization
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 100%
-
 ---
-
 # Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique
 
 Dans Adobe Campaign, vous pouvez personnaliser le contenu ou l&#39;apparence des messages et les combiner avec des critères provenant de profils de destinataires.
@@ -33,6 +43,6 @@ Un bloc de personnalisation est dynamique, personnalisé, et contient un code de
 
 Découvrez comment créer des blocs de contenu dynamiques et comment les utiliser pour personnaliser le contenu de votre diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/31325?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
 Pour en savoir plus sur la personnalisation, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=fr).
