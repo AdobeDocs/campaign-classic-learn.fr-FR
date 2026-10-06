@@ -7,15 +7,27 @@ level: Experienced
 type: Troubleshooting
 jira: KT-8391
 exl-id: e22d0976-a668-4dfd-99fc-1aa586a8632d
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '40'
 ht-degree: 100%
-
 ---
-
 # Débogage de l&#39;erreur d&#39;annulation du message dans une diffusion
 
 Découvrez comment résoudre l&#39;erreur de message annulé (pas de représentation disponible) dans une diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422554?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422554?captions=fre_fr&quality=12&learn=on){transcript=true}
