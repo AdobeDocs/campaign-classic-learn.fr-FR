@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Découvrez comment résoudre le problème d&#39;une diffusion SMS mise en attente pour un compte externe créé.
 
->[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422499?captions=fre_fr&quality=12&learn=on){transcript=true}

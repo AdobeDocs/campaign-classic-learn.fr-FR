@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Découvrez comment résoudre le problème d&#39;une session qui expire lors de la validation d&#39;une offre.
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422549?captions=fre_fr&quality=12&learn=on){transcript=true}

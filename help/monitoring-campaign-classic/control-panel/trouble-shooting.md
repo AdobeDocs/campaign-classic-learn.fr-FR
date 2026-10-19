@@ -47,11 +47,11 @@ L’administrateur ou l’administratrice doit ajouter l’utilisateur ou l’ut
 
 ### Vidéos utiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34941?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 *Vérifier l’identifiant de l’organisation IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34775?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 *Comment ajouter un administrateur ou une administratrice aux administrateurs et administratrices de profil de produit pour pouvoir utiliser le [!UICONTROL Panneau de contrôle] (01:03 min)*
 
