@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 ---
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 Maîtrisez l&#39;utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l&#39;aide de conditions de filtrage.
 
->[!VIDEO](https://video.tv.adobe.com/v/327083?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
 
 ## Tutoriels suivants à regarder
 

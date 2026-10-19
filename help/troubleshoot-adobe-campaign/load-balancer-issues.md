@@ -18,11 +18,11 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 ---
 # Problèmes de répartition de charge
 
 Découvrez comment résoudre les problèmes de répartition de charge lors du redémarrage de linstance
->[!VIDEO](https://video.tv.adobe.com/v/3437493?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
